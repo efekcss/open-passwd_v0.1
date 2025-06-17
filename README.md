@@ -9,7 +9,7 @@ Terminal üzerinden çalışan basit bir parola yöneticisi. AES şifreleme ile 
 - [🖥️ Kurulum](#️-kurulum)
 - [🛠️ Kullanım](#-kullanım)
 - [📷 Ekran Görüntüsü](#-terminal-ekran-görüntüsü)
-- [⚠️ Dikkat](#️-dikkat-)
+- [⚠️ Dikkat](#️-dikkat)
 
 ---
 
@@ -62,7 +62,7 @@ python -m pip install -r requirements.txt
 
 ---
 
-## 🛠️ Kullanım
+## Kullanım
 
 Gereksinimleri de kurduktan sonra artık uygulamayı çalıştırabilirsiniz : 
 ```bash
