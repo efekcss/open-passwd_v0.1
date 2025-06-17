@@ -5,11 +5,11 @@ Terminal üzerinden çalışan basit bir parola yöneticisi. AES şifreleme ile 
 ---
 
 ## 📚 İçindekiler
-- [🚀 Özellikler](#-özellikler)
-- [🖥️ Kurulum](#️-kurulum)
+- [🚀 Özellikler](#özellikler)
+- [🖥️ Kurulum](#️kurulum)
 - [🛠️ Kullanım](#kullanım)
-- [📷 Ekran Görüntüsü](#-terminal-ekran-görüntüsü)
-- [❗ Dikkat](#️-dikkat)
+- [📷 Ekran Görüntüsü](#terminal-ekran-görüntüsü)
+- [❗ Dikkat](#️dikkat)
 
 ---
 
