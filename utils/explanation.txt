@@ -1,2 +1,2 @@
-Bu dosya gelecekte uygulamayı geliştirirken ihtiyaç duyulma halinde kullanılmak üzere boş borakılmıştır. Lütfen boş bırakın ki daha sonra kullanılabilsin.
-(This directory has been created in case it is needed in the future, please leave this blank and it can be used later.)
+Bu dosya gelecekte uygulamayı geliştirirken ihtiyaç duyulması halinde kullanılmak üzere boş bırakılmıştır. Lütfen boş bırakın ki daha sonra kullanılabilsin.
+(This directory has been created in case it is needed in the future, please leave this blank and it can be used later)
