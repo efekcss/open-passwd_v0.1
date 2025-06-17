@@ -90,7 +90,7 @@ Aşağıda uygulamanın terminal üzerinden nasıl çalıştığını gösteren 
 ---
 
 **NOT :**
- Uygulama hala geliştirilme aşamasındaır eksikleri bulunabilir zamanla versiyon güncellemeleri gelecek ve yeni özellikler ile hata düzeltmeleri yayınlanacaktır.
+> Uygulama hala geliştirilme aşamasındadır eksikleri bulunabilir zamanla versiyon güncellemeleri gelecek ve yeni özellikler ile hata düzeltmeleri yayınlanacaktır.
 
 ## ✨ Katkı
 
