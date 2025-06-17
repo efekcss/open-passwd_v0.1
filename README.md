@@ -33,7 +33,8 @@ python --version
 ```
 Eğer python sürümünüz 3.8 den daha eski ise ;
 
-- 🪟 **Windows**: [Python.org](https://www.python.org/downloads/)
+- 🪟 **Windows**: 
+ Python'ın kendi [sitesinden](https://www.python.org/downloads/) son sürümü indirip kurabilirsiniz.
 - 🐧 **Linux**:
  ```bash
  sudo apt install python3.13 #en son sürüm ne ise onu kullanın (şuanlık 3.13 örn: pyton3.13)
