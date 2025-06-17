@@ -9,18 +9,18 @@ Terminal üzerinden çalışan basit bir parola yöneticisi. AES şifreleme ile 
 - [🖥️ Kurulum](#️-kurulum)
 - [🛠️ Kullanım](#kullanım)
 - [📷 Ekran Görüntüsü](#-terminal-ekran-görüntüsü)
-- [⚠️ Dikkat](#️-dikkat)
+- [❗ Dikkat](#️-dikkat)
 
 ---
 
-## 🚀 Özellikler
+##  Özellikler
 
 - 🔒 AES (Advanced Encryption Standard) ile güvenli şifreleme
 - 🔐 Parola üretimi ve yönetimi
 
 ---
 
-## 🖥️ Kurulum
+##  Kurulum
 
 Uygulamanın kurulum aşamaları adım adım aşağıda verilmiştir. Hiçbir adımı atlamadığınızdan emin olun. Uygulamada terminal bazlı olduğundan gerekli tüm işlemler terminal uygulamasında yapılmalıdır.
 
@@ -74,7 +74,7 @@ Bundan sonraki her kullanımda sadece "master password"ünüzü girerek uygulama
 
 ---
 
-## 📷 Terminal Ekran Görüntüsü
+##  Terminal Ekran Görüntüsü
 
 Aşağıda uygulamanın terminal üzerinden nasıl çalıştığını gösteren bir örnek ekran görüntüsü yer almaktadır:
 
@@ -82,7 +82,7 @@ Aşağıda uygulamanın terminal üzerinden nasıl çalıştığını gösteren 
 
 ---
 
-## ⚠️ Dikkat
+##  Dikkat
 
 > İlk kullanım sonrası dosya içerisinde "key.key" , "passwords.json" , "master.key" gibi uygulamaya özgü dosyalar oluşacaktır ve bunların silinmesi, isimlerinin değiştirilmesi halinde maalesef **parolalarınıza tekrar erişiminiz olamayacaktır.**
 
