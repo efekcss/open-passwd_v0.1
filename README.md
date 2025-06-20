@@ -1,6 +1,6 @@
 # 🔐 Open-Passwd_v0.1
 
-Terminal üzerinden çalışan basit bir parola yöneticisi. AES şifreleme ile güvenli parola saklama, parola üretme ve yönetme desteği sunar. Parolalarını şifreli bir şekilde rahatça saklayabilirsin.
+Terminal üzerinden çalışan basit bir yerel parola yöneticisi. AES şifreleme ile güvenli parola saklama, parola üretme ve yönetme desteği sunar. Parolalarını şifreli bir şekilde rahatça saklayabilirsin.
 
 ---
 
