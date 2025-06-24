@@ -69,9 +69,9 @@ Gereksinimleri de kurduktan sonra artık uygulamayı çalıştırabilirsiniz :
 ```bash
 python main.py
 ```
-NOT: Uygulamaya ilk girdiğinizde "master password" oluşturmanızı isteyecektir girmeniz gerekliki yalnızca siz parolalarınıza erişebilesiniz. Daha sonra "master password"ünüzü unutmanız halinde tekrar parolalarınıza erişebilmek için güvenlik sorusu belirlemeniz gerekicek ve bu sorunun cevabını unutmamalısınız aksi takdirde tekrar giriş yapamazsınız!
+NOT: Uygulamaya ilk girdiğinizde **master password** oluşturmanızı isteyecektir girmeniz gerekliki yalnızca siz parolalarınıza erişebilesiniz. Daha sonra **master password**ünüzü unutmanız halinde tekrar parolalarınıza erişebilmek için güvenlik sorusu belirlemeniz gerekicek ve **bu sorunun cevabını unutmamalısınız aksi takdirde tekrar giriş yapamazsınız!**
 
-Bundan sonraki her kullanımda sadece "master password"ünüzü girerek uygulamayı kullanabileceksiniz.
+Bundan sonraki her kullanımda sadece **master password**ünüzü girerek uygulamayı kullanabileceksiniz.
 
 ---
 
@@ -85,7 +85,7 @@ Aşağıda uygulamanın terminal üzerinden nasıl çalıştığını gösteren 
 
 ## Dikkat
 
-> İlk kullanım sonrası dosya içerisinde "key.key" , "passwords.json" , "master.key" gibi uygulamaya özgü dosyalar oluşacaktır ve bunların silinmesi, isimlerinin değiştirilmesi halinde maalesef **parolalarınıza tekrar erişiminiz olamayacaktır.**
+> İlk kullanım sonrası dosya içerisinde **"key.key"** , **"passwords.json"** , **"master.key"** gibi uygulamaya özgü dosyalar oluşacaktır ve bunların silinmesi, isimlerinin değiştirilmesi halinde maalesef **parolalarınıza tekrar erişiminiz olamayacaktır.**
 
 ---
 
@@ -102,3 +102,4 @@ Katkıda bulunmak isterseniz `pull request` göndermekten çekinmeyin!
 
 Proje hakkında öneri, geri bildirim veya hata bildirimi için:  
 📧 `kocasuhasanefe@gmail.com`
+Made for FEF210 <3
